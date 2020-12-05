@@ -6,7 +6,8 @@ I have made a design document for a company. There are several open questions yo
 There is no correct answer for the conclusion, I will be looking for how you justified your answer based on what we have discussed this semester.
 
 Make a copy of this google doc and submit a shared link with your copied document.
-[Google Doc](https://docs.google.com/document/d/1yOBAny64cgtlJ5k9wa0sACDbdoen_3NOyTT5fLKtOUc/edit?usp=sharing)
+**Make sure that you have set the permissions so that anyone with a link can view your document before you submit.**
+[Google Doc](https://docs.google.com/document/d/1yOBAny64cgtlJ5k9wa0sACDbdoen_3NOyTT5fLKtOUc/copy?copyComments=true)
 
 
 ## Programming Problem
@@ -16,7 +17,7 @@ There are a few missing pieces of data where the founding year is listed as zero
 
 Some billionaires are listed multiple times, we won't worry about excluding duplicates for this project.
 
-Please save your code and your graph to your Github repo.
+Please save your code and your graph to your Repl.it project.
 
 ## Data source
 https://corgis-edu.github.io/corgis/csv/billionaires/
